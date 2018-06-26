@@ -1,1 +1,2 @@
 # mimecart
+npm run start :)
